@@ -20,8 +20,8 @@ A **modern and professional** responsive profile card designed with **HTML and C
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/matifelitti/responsive-profile-card.git  
-cd responsive-profile-card  
+git clone https://github.com/matifelitti/Responsive-Profile-Card.git  
+cd Responsive-Profile-Card  
 ```  
 
 ### 2️⃣ Open the Project  
